@@ -42,7 +42,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Web](#web)
   * [Webmails](#webmails)
   * [Wikis](#wikis)
-* [Resources](#resources)
+ * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
   * [Editors](#editors)
